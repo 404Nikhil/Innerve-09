@@ -26,7 +26,7 @@ export default function Home() {
         <Nav />
       </div>
 
-      <div className="w-full flex flex-col justify-center relative home">
+      <div className="w-screen flex flex-col justify-center relative home">
         <div className="flex flex-col w-full items-center justify-center">
           <div className="w-full flex justify-center">
             <p className="text-md text-[#212121] sm:text-2xl md:text-2xl lg:text-3xl xl:text-4xl pt-6  landing-text select-none">
@@ -41,7 +41,7 @@ export default function Home() {
           <Timer />
         </div>
         <div className="w-full flex flex-col z-10 py-8 items-center gap-6">
-         Registrations are starting soon
+          <div className="text-black text-xl">Registrations are starting soon</div>
           <div className="flex flex-col sm:flex-row mx-auto items-center ">
             <a href="https://github.com/tailcallhq/tailcall" target="_blank">
             {/* <button
