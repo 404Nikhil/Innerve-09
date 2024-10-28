@@ -219,7 +219,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Hackathon Begins</div>
-                    <time className="font-caveat font-medium text-gray-400"> 8 Feb, 2025 10:00 AM</time>
+                    <time className="font-caveat font-medium text-gray-400"> 7 Feb, 2025 10:00 AM</time>
                   </div>
                   <div className="text-slate-500">Get ready to code, innovate, and collaborate! The
                     Hackathon journey begins—ideas soar, projects flourish,
@@ -239,7 +239,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Mentorship Session</div>
-                    <time className="font-caveat font-medium text-gray-400">8 Feb, 2025 05:00 PM</time>
+                    <time className="font-caveat font-medium text-gray-400">7 Feb, 2025 05:00 PM</time>
                   </div>
                   <div className="text-slate-500">Get personalized guidance from experienced mentors in
                     a dedicated session.{" "}</div>
