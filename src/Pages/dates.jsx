@@ -16,7 +16,6 @@ export default function Dates() {
         <Threejs />
       </div> */}
       <div className="w-full justify-center pb-8 xl:-mt-24 2xl:-mt-48">
-        <HeadingMain name="Register Now" />
       </div>
     </>
   );
