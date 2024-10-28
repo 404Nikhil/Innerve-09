@@ -23,7 +23,7 @@ const HeadingMob = ({ name }) => {
   }, [inView, controls]);
 
   return (
-    <div className="pt-4 text-center xl:hidden tracking-[8px] font-medium text-[64px] sticky text-gradient-to-b from-white via-white to-[rgba(55, 47, 47, 0.5)]">
+    <div className="pt-4 text-center xl:hidden tracking-[8px] font-medium text-[54px] sticky text-gradient-to-b from-white via-white to-[rgba(55, 47, 47, 0.5)]">
       <motion.div
         ref={ref}
         initial={{ opacity: 0, y: 50, scale: 0.8 }}
