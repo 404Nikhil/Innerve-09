@@ -200,7 +200,7 @@ const Timeline = () => {
                 <div className="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] p-4 rounded shadow">
                   <div className="flex items-center justify-between space-x-2 mb-1">
                     <div className="font-bold text-white">Participant Check-in</div>
-                    <time className="font-caveat font-medium text-gray-400">7 Feb, 2025 6:00 PM</time>
+                    <time className="font-caveat font-medium text-gray-400">6 Feb, 2025 6:00 PM</time>
                   </div>
                   <div className="text-slate-500">Engage in a warm welcome, thorough orientation, and the
                     distribution of essential welcome kits as we kick off
@@ -314,8 +314,7 @@ const Timeline = () => {
                     <div className="font-bold text-white">Final Presentation</div>
                     <time className="font-caveat font-medium text-gray-400">8 Feb, 2025 6:00 PM</time>
                   </div>
-                  <div className="text-slate-500">The moment you've been waiting for is here! Discover the
-                    hackathon winners and celebrate the outstanding
+                  <div className="text-slate-500">Bring your project to life, highlight key features, demonstrate functionality, and showcase the impact of your innovation on the real-world problem you tackled.
                     achievements of participants.</div>
                 </div>
               </div>
