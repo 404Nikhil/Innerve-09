@@ -36,8 +36,8 @@ export default function Footer() {
     };
   }, []);
 
-  const text1 = "+91 7340785879";
-  const text2 = "+91 7980558433";
+  const text1 = "+91 8668952920";
+  const text2 = "+91 6398793447";
   const handleClick = () => {
     const tooltipText = document.querySelectorAll(".tool");
     // console.log(tooltipText);
